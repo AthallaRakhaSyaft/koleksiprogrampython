@@ -1,0 +1,1 @@
+print(datanya.loc[4:9])

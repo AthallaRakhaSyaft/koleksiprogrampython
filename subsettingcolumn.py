@@ -1,0 +1,1 @@
+print(datanya.iloc[[1,10,20],[0,2]])

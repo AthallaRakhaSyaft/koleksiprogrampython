@@ -1,0 +1,1 @@
+print(datanya[(datanya.Class=='Iris-setosa')])

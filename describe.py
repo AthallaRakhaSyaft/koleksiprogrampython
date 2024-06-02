@@ -1,0 +1,1 @@
+print(datanya.describe(include='all'))
